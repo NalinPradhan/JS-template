@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    color: #3b3c3d;
+    font-size: 50px;
+    text-align: center;
+}
+.head{
+    background-color: #d4eaf7;
+    margin-top: 50px;
+}
+#content{
+    padding: 2rem;
+}
